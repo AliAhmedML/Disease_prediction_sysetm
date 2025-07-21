@@ -32,7 +32,7 @@ This project implements a **multi-disease prediction system** using machine lear
 ### Activate the Conda Environment
 
 ```bash
-conda activate venv_Disease
+conda activate ./venv_Disease
 ```
 
 ## 🛠️ Installation

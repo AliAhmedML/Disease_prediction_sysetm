@@ -1,4 +1,4 @@
-# Disease Prediction System  
+# 🏥 Disease Prediction System
 
 **A machine learning-based system for predicting multiple diseases using structured datasets.**  
 
@@ -132,7 +132,6 @@ Download and install [CUDA Toolkit 12.5.0](https://developer.nvidia.com/cuda-12-
      - F1 Score
      - Accuracy Score
      - ROC AUC Score
-     - Log Loss
    - Document and compare performance across all metrics.
 
 3. **Model Selection and Saving**
